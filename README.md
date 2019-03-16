@@ -59,9 +59,7 @@ typedef struct edge
 
 c、建立ET结构体：
  将pe数组中的lowy按照从小到大不重复排列，并且插入到ET的数组部分（EThead）,设为EThead[0~n]。
- 然后，重新扫描pe数组，若有
-pe[i].lowy==EThead[j]，则将pe[i]的节点信息插入到EThead[j]后面。待
-EThead[n]插入完毕后，对EThead[0~n]，将其后面的链表按照x从小到大排列。
+
 
 d、扫描线算法填充图形
 先将原图形打印。再按照2中的扫描线算法，结合ET结构体和AEL链表进行扫描。只要ET和AEL不为空就持续进行。

@@ -65,16 +65,23 @@ d、扫描线算法填充图形
 先将原图形打印。再按照2中的扫描线算法，结合ET结构体和AEL链表进行扫描。只要ET和AEL不为空就持续进行。
 
 展示如下：
+
 case1(三十边形)：
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case1.png)
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example1.png)
 
 case2(二十边形)：
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case2.png)
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example2.png)
 
-case1(五边形)：
+case3(五边形)：
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case3.png)
+
 ![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example3.png)
 
 

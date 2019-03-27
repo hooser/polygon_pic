@@ -66,5 +66,17 @@ d、扫描线算法填充图形
 
 展示如下：
 case1(三十边形)：
-![ooops!!!](
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case1.png)
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example1.png)
+
+case2(二十边形)：
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case2.png)
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example2.png)
+
+case1(五边形)：
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/case3.png)
+![ooops!!!](https://github.com/hooser/polygon_pic/blob/master/images/example3.png)
+
+
+
 
